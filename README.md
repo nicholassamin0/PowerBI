@@ -1,4 +1,6 @@
-I created this project that using Power BI to analyze and visualize key performance metrics within the hospitality domain. The primary objective is to provide comprehensive insights into various aspects of hotel performance, including revenue, occupancy rates, and booking trends, across multiple cities and hotel categories. 
+I created this project to ensure that the manager has comprehensive information about the hotel's condition. The goal is to provide daily performance data so the manager can make informed decisions based on the hotel's current state. These decisions will also influence the marketing plan and operational structure. This approach enables the manager to act swiftly and determine the best course of action.
+
+This project that using Power BI to analyze and visualize key performance metrics within the hospitality domain. The primary objective is to provide comprehensive insights into various aspects of hotel performance, including revenue, occupancy rates, and booking trends, across multiple cities and hotel categories. 
 There are several indicators in the report that enhance its utility, making it easier to make data-driven decisions. These indicators include:  
 
     Revenue Analysis:
